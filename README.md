@@ -111,5 +111,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Shefalika Thapa**. I am a Data Nerd.
 
-Let's stay in touch! Follow me on here!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shefalika-thapa/)
+Let's stay in touch! Follow me!
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shefalika-thapa/)
