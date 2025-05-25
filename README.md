@@ -97,12 +97,9 @@ data-warehouse-project/
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
-└── requirements.txt                    # Dependencies and requirements for the project
+               
 ```
 ---
-
-## ☕ Stay Connected
-
 
 ---
 
@@ -112,6 +109,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Shefalika Thapa**.
+Hi there! I'm **Shefalika Thapa**. I am a Data Nerd.
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Let's stay in touch! Follow me on LinkedIn.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shefalika-thapa/)
